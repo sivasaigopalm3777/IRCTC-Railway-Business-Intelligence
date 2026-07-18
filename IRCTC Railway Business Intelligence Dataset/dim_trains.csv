@@ -1,0 +1,121 @@
+train_id,train_name,source_station,destination_station,train_category,distance_km,avg_travel_hours,base_fare,zone
+TR001,Ramaswamy-Mittal Express,Mumbai,Guntur,Duronto,2333,4.7,4148,East Coast
+TR002,Narasimhan PLC Express,Mumbai,Bengaluru,Shatabdi,1036,20.6,2398,Western
+TR003,Modi-Kaul Express,Delhi,Visakhapatnam,Rajdhani,133,12.8,673,Southern
+TR004,"Mistry, Dugar and Bora Express",Hyderabad,Kolkata,Duronto,221,16.4,3237,East Coast
+TR005,Tripathi-Keer Express,Vijayawada,Guntur,Express,619,5.2,2614,South Central
+TR006,Pillai LLC Express,Guntur,Delhi,Intercity,1160,24.3,3753,South Central
+TR007,Sharaf Inc Express,Hyderabad,Chennai,Shatabdi,1247,15.5,1014,South Central
+TR008,"Jayaraman, Sachdev and Pradhan Express",Hyderabad,Kolkata,Intercity,1702,28.3,4486,South Central
+TR009,Banerjee-Sheth Express,Kolkata,Delhi,Shatabdi,1695,21.9,4282,Southern
+TR010,Varkey-Mukherjee Express,Guntur,Visakhapatnam,Duronto,2424,9.2,2554,East Coast
+TR011,Pall LLC Express,Guntur,Hyderabad,Rajdhani,618,21.1,237,Western
+TR012,"Chandra, Sami and Chaudry Express",Kolkata,Delhi,Duronto,398,20.1,4715,East Coast
+TR013,Bassi Ltd Express,Visakhapatnam,Vijayawada,Duronto,1228,14.1,3010,Western
+TR014,Narula and Sons Express,Vijayawada,Pune,Shatabdi,932,22.8,4402,Southern
+TR015,Varghese Inc Express,Vijayawada,Pune,Superfast,695,12.1,1550,East Coast
+TR016,"Rajan, Mody and Tak Express",Kolkata,Guntur,Shatabdi,1758,19.6,4254,Western
+TR017,Chakraborty Ltd Express,Kolkata,Bengaluru,Intercity,1524,17.1,3953,East Coast
+TR018,"Kota, Kara and Aurora Express",Delhi,Guntur,Duronto,1759,11.8,3823,Southern
+TR019,"Sekhon, Dugal and Nagi Express",Hyderabad,Chennai,Superfast,739,23.5,1889,South Central
+TR020,Bassi-Pradhan Express,Visakhapatnam,Vijayawada,Shatabdi,1980,22.3,2846,East Coast
+TR021,Salvi LLC Express,Mumbai,Chennai,Duronto,1980,29.5,4040,East Coast
+TR022,Dey Group Express,Pune,Mumbai,Rajdhani,1238,13.4,4010,Southern
+TR023,Char-Saran Express,Guntur,Pune,Intercity,776,26.6,644,South Central
+TR024,Dara LLC Express,Kolkata,Delhi,Superfast,1548,14.2,897,Southern
+TR025,"Dayal, Keer and Bora Express",Vijayawada,Delhi,Intercity,440,10.5,2677,Southern
+TR026,Bansal Ltd Express,Kolkata,Pune,Intercity,1470,5.4,1101,Western
+TR027,Sama-Datta Express,Hyderabad,Chennai,Superfast,886,4.1,3180,South Central
+TR028,"Suri, Murthy and Behl Express",Visakhapatnam,Hyderabad,Intercity,866,6.6,3543,South Central
+TR029,Thaker Ltd Express,Hyderabad,Bengaluru,Duronto,537,24.0,1211,Southern
+TR030,Ramanathan-Maharaj Express,Delhi,Vijayawada,Superfast,1840,4.8,1082,South Central
+TR031,Jha Inc Express,Hyderabad,Delhi,Intercity,2480,2.9,670,Northern
+TR032,Bhattacharyya Inc Express,Guntur,Delhi,Superfast,2452,12.2,995,East Coast
+TR033,"Raj, Subramaniam and Behl Express",Mumbai,Kolkata,Shatabdi,1757,8.6,2789,East Coast
+TR034,"Sarin, Garde and Randhawa Express",Mumbai,Guntur,Duronto,1866,2.4,2268,Western
+TR035,Rastogi Ltd Express,Visakhapatnam,Vijayawada,Rajdhani,1619,22.7,1344,Western
+TR036,Yohannan and Sons Express,Kolkata,Visakhapatnam,Rajdhani,1815,26.5,1712,Northern
+TR037,Kakar LLC Express,Pune,Visakhapatnam,Intercity,137,25.5,4740,Southern
+TR038,Gola-Pillay Express,Bengaluru,Mumbai,Duronto,1824,16.7,3451,South Central
+TR039,Badami-Suresh Express,Bengaluru,Pune,Duronto,1794,22.6,548,South Central
+TR040,Krishnan Ltd Express,Vijayawada,Chennai,Duronto,2026,15.4,3503,Southern
+TR041,"Dubey, Pathak and Loke Express",Delhi,Vijayawada,Rajdhani,2066,29.7,3031,Southern
+TR042,"Bail, Mann and Bath Express",Hyderabad,Guntur,Express,2115,9.1,531,Southern
+TR043,Dixit LLC Express,Chennai,Hyderabad,Shatabdi,505,26.7,362,South Central
+TR044,Sehgal-Shenoy Express,Hyderabad,Pune,Rajdhani,175,15.0,735,Northern
+TR045,Ram-Shan Express,Kolkata,Vijayawada,Shatabdi,2352,25.6,536,Western
+TR046,"Bhardwaj, Trivedi and Seth Express",Pune,Delhi,Superfast,2459,14.0,2918,East Coast
+TR047,Kata-D’Alia Express,Visakhapatnam,Mumbai,Superfast,2496,5.6,3765,Northern
+TR048,Parmer LLC Express,Guntur,Kolkata,Express,2225,19.1,416,Southern
+TR049,Kamdar Inc Express,Guntur,Bengaluru,Express,2339,17.8,3955,Western
+TR050,Sarkar PLC Express,Pune,Vijayawada,Superfast,661,29.7,2369,Western
+TR051,"Kannan, Ramachandran and Seth Express",Bengaluru,Mumbai,Duronto,2443,4.9,4842,South Central
+TR052,Bora-Natarajan Express,Vijayawada,Delhi,Express,1409,17.5,1932,Southern
+TR053,"Edwin, Kota and Puri Express",Pune,Guntur,Shatabdi,1480,12.6,3732,East Coast
+TR054,Dara-Kumar Express,Visakhapatnam,Chennai,Rajdhani,1457,20.8,1258,Northern
+TR055,Sekhon-Bhattacharyya Express,Chennai,Guntur,Superfast,1685,20.3,4097,Southern
+TR056,Ramakrishnan LLC Express,Hyderabad,Vijayawada,Rajdhani,444,8.6,3514,South Central
+TR057,Dayal-Hans Express,Hyderabad,Chennai,Duronto,1716,25.8,585,Northern
+TR058,Kumer PLC Express,Chennai,Vijayawada,Superfast,1709,15.8,3099,Northern
+TR059,Sekhon-Thakkar Express,Pune,Vijayawada,Express,626,24.4,1130,Northern
+TR060,Nagi LLC Express,Hyderabad,Visakhapatnam,Superfast,1390,9.4,1311,Northern
+TR061,Wable Inc Express,Pune,Bengaluru,Intercity,482,28.5,2043,Southern
+TR062,Contractor PLC Express,Vijayawada,Hyderabad,Rajdhani,1406,6.5,1960,South Central
+TR063,Jaggi Ltd Express,Bengaluru,Pune,Intercity,234,13.1,859,East Coast
+TR064,Dar Ltd Express,Guntur,Mumbai,Shatabdi,1791,5.5,3303,East Coast
+TR065,Badami and Sons Express,Delhi,Visakhapatnam,Express,1018,9.7,3674,Southern
+TR066,Sem Inc Express,Mumbai,Visakhapatnam,Superfast,2461,27.0,880,Northern
+TR067,"Pandey, Char and Dutta Express",Vijayawada,Chennai,Shatabdi,1653,2.7,1669,East Coast
+TR068,Mandal Inc Express,Kolkata,Bengaluru,Shatabdi,2378,9.7,1331,Southern
+TR069,Mahajan PLC Express,Chennai,Visakhapatnam,Intercity,1977,21.7,1802,East Coast
+TR070,Dey-Sur Express,Mumbai,Chennai,Intercity,2258,22.2,3518,South Central
+TR071,Mohan-Om Express,Kolkata,Mumbai,Shatabdi,1794,4.2,2122,South Central
+TR072,Anand-Kala Express,Vijayawada,Chennai,Intercity,167,9.0,4413,Southern
+TR073,"Bhatt, Murthy and Pal Express",Hyderabad,Guntur,Duronto,1983,8.6,226,South Central
+TR074,Gaba and Sons Express,Hyderabad,Visakhapatnam,Shatabdi,599,8.0,4044,Western
+TR075,"Goel, Samra and De Express",Vijayawada,Pune,Duronto,1710,3.8,4679,East Coast
+TR076,Chadha LLC Express,Pune,Kolkata,Duronto,2051,4.3,1864,East Coast
+TR077,Bath-Srinivasan Express,Guntur,Delhi,Rajdhani,1914,2.6,2805,Western
+TR078,Hayre and Sons Express,Vijayawada,Pune,Rajdhani,1064,20.8,2450,Western
+TR079,Bains-Kanda Express,Pune,Hyderabad,Rajdhani,2419,13.6,4493,Northern
+TR080,Amble PLC Express,Vijayawada,Kolkata,Intercity,1731,18.7,3581,Southern
+TR081,"Sandal, Gade and Bumb Express",Chennai,Visakhapatnam,Rajdhani,160,13.6,3991,Southern
+TR082,"Barad, Puri and Dass Express",Bengaluru,Vijayawada,Express,862,2.0,2424,Northern
+TR083,Krishnan-Dass Express,Delhi,Kolkata,Superfast,962,13.0,3619,East Coast
+TR084,"Batra, Sandhu and Mitter Express",Vijayawada,Visakhapatnam,Express,2060,15.6,3905,Western
+TR085,Vig Inc Express,Mumbai,Bengaluru,Duronto,1926,5.7,4231,East Coast
+TR086,Borah-Sathe Express,Vijayawada,Mumbai,Superfast,1245,9.2,4611,Northern
+TR087,Cheema Group Express,Vijayawada,Guntur,Intercity,1416,23.7,2550,South Central
+TR088,Thakkar-Venkatesh Express,Kolkata,Delhi,Rajdhani,1983,12.4,3876,South Central
+TR089,Boase-Sathe Express,Chennai,Mumbai,Shatabdi,1878,12.7,1265,Western
+TR090,Chauhan and Sons Express,Guntur,Delhi,Express,429,25.4,1073,Western
+TR091,Tiwari-Bhattacharyya Express,Guntur,Chennai,Duronto,283,16.0,4512,South Central
+TR092,Rai PLC Express,Vijayawada,Bengaluru,Rajdhani,1281,11.4,640,Western
+TR093,"Sengupta, Chada and Narayanan Express",Vijayawada,Guntur,Superfast,522,27.3,2295,Northern
+TR094,Yohannan Ltd Express,Hyderabad,Bengaluru,Intercity,1837,26.6,2241,Northern
+TR095,Chadha-Sachdev Express,Kolkata,Pune,Duronto,2253,10.5,4206,Southern
+TR096,Jha and Sons Express,Chennai,Vijayawada,Express,279,8.5,2770,Southern
+TR097,"Mall, Dewan and Ramaswamy Express",Mumbai,Guntur,Duronto,1796,3.6,3122,Northern
+TR098,Suresh Inc Express,Delhi,Pune,Intercity,112,6.6,4415,East Coast
+TR099,"Rai, Virk and Krishnamurthy Express",Guntur,Kolkata,Rajdhani,2140,6.3,785,East Coast
+TR100,Mukhopadhyay-Banerjee Express,Hyderabad,Guntur,Duronto,462,19.9,1566,Southern
+TR101,Banerjee-Bahri Express,Vijayawada,Chennai,Superfast,292,24.4,3861,South Central
+TR102,Choudhary-Chopra Express,Mumbai,Kolkata,Express,1424,16.4,224,Western
+TR103,Tella LLC Express,Delhi,Bengaluru,Intercity,1871,5.3,509,East Coast
+TR104,Bhatt Ltd Express,Guntur,Pune,Shatabdi,1361,11.9,829,East Coast
+TR105,Balasubramanian Group Express,Visakhapatnam,Delhi,Rajdhani,2181,17.6,3066,East Coast
+TR106,"Mangat, Mander and Buch Express",Kolkata,Hyderabad,Express,1827,4.0,2680,Northern
+TR107,Mitter-Dewan Express,Chennai,Kolkata,Express,1362,6.6,3639,South Central
+TR108,"Bhagat, Buch and Vig Express",Guntur,Vijayawada,Express,230,10.5,2878,Western
+TR109,"Brar, Rastogi and Vohra Express",Guntur,Kolkata,Superfast,435,23.8,4929,East Coast
+TR110,Madan-Menon Express,Mumbai,Kolkata,Rajdhani,2163,6.0,3768,Northern
+TR111,"Sarin, Srivastava and Kapur Express",Chennai,Delhi,Intercity,393,2.7,3509,Northern
+TR112,"Rout, Mall and Mani Express",Chennai,Delhi,Shatabdi,633,20.7,3365,Northern
+TR113,Kapur PLC Express,Mumbai,Delhi,Shatabdi,583,2.1,2845,East Coast
+TR114,"Sengupta, Pall and Goel Express",Guntur,Hyderabad,Express,2474,22.7,1813,Southern
+TR115,"Dewan, Deep and Mittal Express",Kolkata,Visakhapatnam,Superfast,1761,2.2,424,Northern
+TR116,Dugal-Warrior Express,Bengaluru,Guntur,Superfast,765,17.9,805,East Coast
+TR117,"Sandhu, Mallick and Dar Express",Pune,Guntur,Shatabdi,1476,19.0,3313,South Central
+TR118,"Anand, Sundaram and Gade Express",Chennai,Bengaluru,Rajdhani,1646,24.4,1270,Northern
+TR119,Sethi-Sane Express,Chennai,Visakhapatnam,Intercity,142,2.6,3101,South Central
+TR120,"Gour, Agarwal and Lal Express",Guntur,Delhi,Duronto,2261,11.9,493,East Coast
