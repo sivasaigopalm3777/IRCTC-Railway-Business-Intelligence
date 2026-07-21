@@ -175,7 +175,7 @@ The Power BI report contains **3 Interactive Dashboard Pages**.
 
 ### Dashboard Preview
 
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](Images/Dashboard%20Overview.png)
 
 ### KPIs
 
@@ -198,7 +198,7 @@ The Power BI report contains **3 Interactive Dashboard Pages**.
 
 ### Dashboard Preview
 
-![Passenger Analytics](Passenger_Analytics.png)
+![Passenger Analytics](Images/Passenger%20Analytics.png)
 
 ### KPIs
 
@@ -222,7 +222,7 @@ The Power BI report contains **3 Interactive Dashboard Pages**.
 
 ### Dashboard Preview
 
-![Route & Operational Analytics](Route_Operational_Analytics.png)
+![Route & Operational Analytics](Images/Route%20%26%20Operational%20Analytics.png)
 
 ### KPIs
 
