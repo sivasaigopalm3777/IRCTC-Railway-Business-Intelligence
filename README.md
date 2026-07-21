@@ -405,7 +405,7 @@ It also highlights the ability to build an end-to-end analytics solution by inte
 
 ## **Siva Sai Gopal Mandru**
 
-**Aspiring Data Analyst**
+**Data Analyst**
 
 ### Skills
 
